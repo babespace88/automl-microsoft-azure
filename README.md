@@ -20,6 +20,18 @@ dataset --> https://www.kaggle.com/competitions/playground-series-s6e5/data
 dataset --> https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
 
 
-#5 Health Insurance Coverage
+#5 Heart Disease
 
-dataset --> https://www.kaggle.com/datasets/hhs/health-insurance/data
+dataset --> https://www.kaggle.com/competitions/playground-series-s6e2
+
+#6 Diagnosis diabetes
+
+dataset --> https://www.kaggle.com/competitions/playground-series-s5e12
+
+# Predicting Loan Payback
+
+dataset --> https://www.kaggle.com/competitions/playground-series-s5e11
+
+# Predicting Road Accident Risk
+
+dataset --> https://www.kaggle.com/competitions/playground-series-s5e10
